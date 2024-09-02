@@ -1,1 +1,1 @@
-# enhanced-sign-rec
+# ENHANCED SIGN RECOGNITION
